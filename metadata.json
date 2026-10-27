@@ -1,0 +1,6 @@
+{
+  "name": "Olivia AI — Institutional Sniper Terminal",
+  "description": "Professional SMC Market Analysis & High-Precision Execution optimized for small account compounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
